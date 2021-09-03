@@ -1,6 +1,6 @@
 # Jotter
-#### Client management / progress notes for therapists.
-An application for therapists / professionals to manage basic details of clients or patients and take progress notes or session notes. Notes can be shared with other users with appropriate permissions. Users can login to app. Admin / SuperUser can edit details and permissions. Something about privacy...
+#### Progress Notes / Client Management for therapists and professionals
+An application for therapists / professionals to take basic progress or session notes as well as manage basic client information. Notes can be shared with other users with appropriate permissions. Users can login to app. Admin / SuperUser can edit details and permissions. Something about privacy...
 
 ## Features:
 - A User (therapist / professional / admin) can login to the application, change their details
