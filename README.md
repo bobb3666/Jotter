@@ -45,6 +45,8 @@ An application for therapists / professionals to manage basic details of clients
 - Session Description (i.e. the actual session notes, longform text field, with rich-text(?))
 - Created_at
 - Updated_at
+- Belongs to User
+- Belongs to Client
 
 ---
 
