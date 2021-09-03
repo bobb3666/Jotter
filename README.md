@@ -47,6 +47,7 @@ An application for therapists / professionals to take basic progress or session 
 - Updated_at
 - Belongs to User
 - Belongs to Client
+- Has attachment (optional, short video, image, PDF)
 
 ---
 
