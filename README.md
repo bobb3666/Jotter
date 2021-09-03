@@ -3,7 +3,7 @@
 An application for therapists / professionals to manage basic details of clients or patients and take progress notes or session notes. Notes can be shared with other users with appropriate permissions. Users can login to app. Admin / SuperUser can edit details and permissions. Something about privacy...
 
 ## Features:
-- A User can login to the application, change their details
+- A User (therapist / professional / admin) can login to the application, change their details
 - A User can create a 'client' or 'patient'
 - A SuperUser can change Client permissions for Users
 - A Client will have a profile that has their information (Name, DOB, Address, Next of Kin etc)
